@@ -1,1 +1,1 @@
-# CommuniConnect
+# CommuniConnectAPP
